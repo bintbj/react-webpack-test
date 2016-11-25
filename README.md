@@ -3,4 +3,7 @@
 
 ## 运行
 `npm install`
+
 `npm run dev`
+
+浏览器输入：localhost:8080打开页面
